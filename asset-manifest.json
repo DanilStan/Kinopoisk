@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DanilStan/goit-react-hw-05-movies.git/static/css/main.3d578790.css",
+    "main.css": "/DanilStan/goit-react-hw-05-movies.git/static/css/main.f99da2bc.css",
     "main.js": "/DanilStan/goit-react-hw-05-movies.git/static/js/main.fdde6b62.js",
     "static/css/936.ace37021.chunk.css": "/DanilStan/goit-react-hw-05-movies.git/static/css/936.ace37021.chunk.css",
     "static/js/936.52bf2e9c.chunk.js": "/DanilStan/goit-react-hw-05-movies.git/static/js/936.52bf2e9c.chunk.js",
@@ -16,7 +16,7 @@
     "static/js/168.155ce288.chunk.js": "/DanilStan/goit-react-hw-05-movies.git/static/js/168.155ce288.chunk.js",
     "static/js/317.e634e408.chunk.js": "/DanilStan/goit-react-hw-05-movies.git/static/js/317.e634e408.chunk.js",
     "index.html": "/DanilStan/goit-react-hw-05-movies.git/index.html",
-    "main.3d578790.css.map": "/DanilStan/goit-react-hw-05-movies.git/static/css/main.3d578790.css.map",
+    "main.f99da2bc.css.map": "/DanilStan/goit-react-hw-05-movies.git/static/css/main.f99da2bc.css.map",
     "main.fdde6b62.js.map": "/DanilStan/goit-react-hw-05-movies.git/static/js/main.fdde6b62.js.map",
     "936.ace37021.chunk.css.map": "/DanilStan/goit-react-hw-05-movies.git/static/css/936.ace37021.chunk.css.map",
     "936.52bf2e9c.chunk.js.map": "/DanilStan/goit-react-hw-05-movies.git/static/js/936.52bf2e9c.chunk.js.map",
@@ -33,7 +33,7 @@
     "317.e634e408.chunk.js.map": "/DanilStan/goit-react-hw-05-movies.git/static/js/317.e634e408.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d578790.css",
+    "static/css/main.f99da2bc.css",
     "static/js/main.fdde6b62.js"
   ]
 }
