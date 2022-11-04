@@ -1,0 +1,12 @@
+.cast_list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.cast_item {
+  max-width: 200px;
+  color: #f41919;
+}
